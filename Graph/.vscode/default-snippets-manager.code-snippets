@@ -1,0 +1,17 @@
+{
+	"cp": {
+		"prefix": "cp",
+		"description": "cp",
+		"scope": "cpp",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"using namespace std;",
+			"using int =long long;",
+			"signed main() {",
+			"  ",
+			"",
+			"    return 0;",
+			"}"
+		]
+	}
+}

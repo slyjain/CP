@@ -1,0 +1,1 @@
+{"name":"Local: FORM2(NumberOfDistinctSubSequenceOfString)","url":"/home/heisenberg/coding/cp/DP/FORM2(NumberOfDistinctSubSequenceOfString).cpp","tests":[{"id":1729043883929,"input":"abaab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/DP/FORM2(NumberOfDistinctSubSequenceOfString).cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: DistinctSubSequencesOfString","url":"/home/heisenberg/coding/cp/DP/DistinctSubSequencesOfString.cpp","tests":[{"id":1729271387661,"input":"aaaa","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/DP/DistinctSubSequencesOfString.cpp","group":"local","local":true}

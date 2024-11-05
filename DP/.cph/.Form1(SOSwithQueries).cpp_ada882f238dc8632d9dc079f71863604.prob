@@ -1,0 +1,1 @@
+{"name":"Local: Form1(SOSwithQueries)","url":"/home/heisenberg/coding/cp/DP/Form1(SOSwithQueries).cpp","tests":[{"id":1728926535266,"input":"11\n2 4 5 6 7 8 9 10 13 17 19\n4\n1\n10\n23\n200","output":"0\n1\n1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/DP/Form1(SOSwithQueries).cpp","group":"local","local":true}

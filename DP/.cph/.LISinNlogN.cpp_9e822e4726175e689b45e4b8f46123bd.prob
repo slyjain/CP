@@ -1,0 +1,1 @@
+{"name":"Local: LISinNlogN","url":"/home/heisenberg/coding/cp/DP/LISinNlogN.cpp","tests":[{"id":1729150661055,"input":"10\n1 5 7 10 9 6 8 9 2 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/DP/LISinNlogN.cpp","group":"local","local":true}

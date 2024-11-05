@@ -1,0 +1,1 @@
+{"name":"Local: bitmaskImplementationOfNoTstringAsSybString","url":"/home/heisenberg/coding/cp/DP/bitmaskImplementationOfNoTstringAsSybString.cpp","tests":[{"id":1729169713867,"input":"4\n000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/DP/bitmaskImplementationOfNoTstringAsSybString.cpp","group":"local","local":true}

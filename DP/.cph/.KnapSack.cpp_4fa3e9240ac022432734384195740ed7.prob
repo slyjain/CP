@@ -1,0 +1,1 @@
+{"name":"Local: KnapSack","url":"/home/heisenberg/coding/cp/DP/KnapSack.cpp","tests":[{"id":1728968180381,"input":"3 8\n3 30\n4 50\n5 60\n","output":"90"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/DP/KnapSack.cpp","group":"local","local":true}

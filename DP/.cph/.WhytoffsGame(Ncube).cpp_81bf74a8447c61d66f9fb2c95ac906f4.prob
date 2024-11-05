@@ -1,0 +1,1 @@
+{"name":"Local: WhytoffsGame(Ncube)","url":"/home/heisenberg/coding/cp/DP/WhytoffsGame(Ncube).cpp","tests":[{"id":1729316416442,"input":"10\n1 2\n7 4\n2 9\n5 5\n1 10\n19 26\n22 85 \n24 74 \n33 66\n77 17\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/DP/WhytoffsGame(Ncube).cpp","group":"local","local":true}

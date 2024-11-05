@@ -1,0 +1,1 @@
+{"name":"Local: WalMartStringEasy","url":"/home/heisenberg/coding/cp/DP/WalMartStringEasy.cpp","tests":[{"id":1729778777544,"input":"abcd\ncdabcd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/DP/WalMartStringEasy.cpp","group":"local","local":true}

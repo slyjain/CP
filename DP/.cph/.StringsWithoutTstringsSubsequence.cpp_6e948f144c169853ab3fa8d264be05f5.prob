@@ -1,0 +1,1 @@
+{"name":"Local: StringsWithoutTstringsSubsequence","url":"/home/heisenberg/coding/cp/DP/StringsWithoutTstringsSubsequence.cpp","tests":[{"id":1729165609724,"input":"7\n1001","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/DP/StringsWithoutTstringsSubsequence.cpp","group":"local","local":true}

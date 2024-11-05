@@ -1,0 +1,1 @@
+{"name":"Local: Form2(SumOfMinOfKSubArrays)","url":"/home/heisenberg/coding/cp/DP/Form2(SumOfMinOfKSubArrays).cpp","tests":[{"id":1728986032723,"input":"5 3\n1 3 2 5 4","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/DP/Form2(SumOfMinOfKSubArrays).cpp","group":"local","local":true}
