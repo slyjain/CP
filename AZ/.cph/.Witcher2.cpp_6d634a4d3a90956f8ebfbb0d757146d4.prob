@@ -1,0 +1,1 @@
+{"name":"Local: Witcher2","url":"/home/heisenberg/coding/cp/AZ/Witcher2.cpp","tests":[{"id":1736146439003,"input":"2\n3 3\n-2 -3 3\n-5 -10 1\n10 30 -5\n1 1\n1","output":"7\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/Witcher2.cpp","group":"local","local":true}

@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define int long long
-int dpWin[61][160][260][11][2];
+int dpWin[61][160][260][11][2][2];
 int dpPos[61][160][11];
  int r[]={1,2,3,4,6,0};
  const int M=1e9+7;
@@ -73,7 +73,7 @@ int rec2(int ballRem,int runRem,int wickRem){
     return dpPos[ballRem][runRem][wickRem]=ans%M;
 }
 
-int rec1(int ballRem,int runRem,int vkRuns,int wickRem,int strike){
+int rec1(int ballRem,int runRem,int vkRuns,int wickRem,int strike,int vkOut){
     //base case
 
     if(wickRem==0)return 0;
@@ -84,33 +84,39 @@ int rec1(int ballRem,int runRem,int vkRuns,int wickRem,int strike){
         return 0;
     }
     //cache check
-    if(dpWin[ballRem][runRem][vkRuns][wickRem][strike]!=-1){
-        return dpWin[ballRem][runRem][vkRuns][wickRem][strike];
+    if(dpWin[ballRem][runRem][vkRuns][wickRem][strike][vkOut]!=-1){
+        return dpWin[ballRem][runRem][vkRuns][wickRem][strike][vkOut];
     }
     int ans=0;
     for(int i=0;i<5;i++){
         if(ballRem%6==0){
             if(r[i]%2==0){
-                ans+=rec1(ballRem-1,runRem-r[i],vkRuns+r[i],wickRem,!strike);
+                ans+=rec1(ballRem-1,runRem-r[i],vkRuns+r[i],wickRem,!strike,vkOut);
             }else{
-                ans+=rec1(ballRem-1,runRem-r[i],vkRuns+r[i],wickRem,strike);   
+                ans+=rec1(ballRem-1,runRem-r[i],vkRuns+r[i],wickRem,strike,vkOut);   
             }
         }else{
             if(r[i]%2!=0){
-                ans+=rec1(ballRem-1,runRem-r[i],vkRuns+r[i],wickRem,!strike);
+                ans+=rec1(ballRem-1,runRem-r[i],vkRuns+r[i],wickRem,!strike,vkOut);
             }else{
-                ans+=rec1(ballRem-1,runRem-r[i],vkRuns+r[i],wickRem,strike);   
+                ans+=rec1(ballRem-1,runRem-r[i],vkRuns+r[i],wickRem,strike,vkOut);   
             } 
         }
     }
     if(!strike){
         if(ballRem%6!=0)
-        ans+=rec1(ballRem-1,runRem,vkRuns,wickRem-1,strike);
+        ans+=rec1(ballRem-1,runRem,vkRuns,wickRem-1,strike,vkOut);
         else
-        ans+=rec1(ballRem-1,runRem,vkRuns,wickRem-1,!strike);
+        ans+=rec1(ballRem-1,runRem,vkRuns,wickRem-1,!strike,vkOut);
+    }
+    if(vkRuns>=100&&strike){
+        if(ballRem%6!=0)
+        ans+=rec1(ballRem-1,runRem,vkRuns,wickRem-1,strike,1-vkOut);
+        else
+        ans+=rec1(ballRem-1,runRem,vkRuns,wickRem-1,!strike,1-vkOut);
     }
     //save and return
-    return dpWin[ballRem][runRem][vkRuns][wickRem][strike]=ans%M;
+    return dpWin[ballRem][runRem][vkRuns][wickRem][strike][vkOut]=ans%M;
 }
 
 // int fn(int n,int b,int w,int x,int s){
@@ -146,7 +152,7 @@ void solve(){
     memset(dpWin,-1,sizeof(dpWin));
     memset(dpPos,-1,sizeof(dpPos));
     cin>>N>>b>>w>>x;
-    int p=rec1(b,N,x,10-w,1);
+    int p=rec1(b,N,x,10-w,1,0);
     int q=rec2(b,N,10-w);
     cout<<mul(p,inv(q))<<"\n";
     // cout<<rec1(b,N,x,10-w,1)<<" "<<rec2(b,N,10-w)<<"\n";

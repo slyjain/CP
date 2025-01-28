@@ -1,0 +1,1 @@
+{"name":"Local: GemstoneDestruction","url":"/home/heisenberg/coding/cp/AZ/GemstoneDestruction.cpp","tests":[{"id":1736185629541,"input":"3\n4\n1 3 3 1\n3\n2 4 3\n11\n1 3 2 3 2 4 3 3 4 3 1","output":"1\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/GemstoneDestruction.cpp","group":"local","local":true}

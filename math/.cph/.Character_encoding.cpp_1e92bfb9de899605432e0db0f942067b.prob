@@ -1,0 +1,1 @@
+{"name":"Local: Character_encoding","url":"/home/heisenberg/coding/cp/math/Character_encoding.cpp","tests":[{"id":1733808037332,"input":"2 4 5","output":"2"},{"id":1733809068397,"input":"20 10 50","output":"366736536"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/math/Character_encoding.cpp","group":"local","local":true}

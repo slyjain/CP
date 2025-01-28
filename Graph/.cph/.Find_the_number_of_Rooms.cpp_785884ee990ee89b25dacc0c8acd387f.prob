@@ -1,0 +1,1 @@
+{"name":"Local: Find_the_number_of_Rooms","url":"/home/heisenberg/coding/cp/Graph/Find_the_number_of_Rooms.cpp","tests":[{"id":1734678698954,"input":"5 8\n########\n#..#...#\n####.#.#\n#..#...#\n########","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/Graph/Find_the_number_of_Rooms.cpp","group":"local","local":true}

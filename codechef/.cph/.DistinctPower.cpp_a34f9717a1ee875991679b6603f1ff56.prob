@@ -1,0 +1,1 @@
+{"name":"Local: DistinctPower","url":"/home/heisenberg/coding/cp/codechef/DistinctPower.cpp","tests":[{"id":1735138406142,"input":"3\n4\n5 8 4 1\n5\n9 1 4 12 7\n9\n10 8 2 11 12 50 1 6 5","output":"2\n4\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/codechef/DistinctPower.cpp","group":"local","local":true}

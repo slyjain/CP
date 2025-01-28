@@ -1,0 +1,1 @@
+{"name":"Local: pyramid","url":"/home/heisenberg/coding/cp/AZ/pyramid.cpp","tests":[{"id":1736692488718,"input":"3","output":""},{"id":1736702317072,"input":"5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/pyramid.cpp","group":"local","local":true}

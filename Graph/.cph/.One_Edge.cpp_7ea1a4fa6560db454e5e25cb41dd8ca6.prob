@@ -1,0 +1,1 @@
+{"name":"Local: One_Edge","url":"/home/heisenberg/coding/cp/Graph/One_Edge.cpp","tests":[{"id":1734677211459,"input":"6 5\n1 2\n2 3\n4 5\n3 1\n5 6","output":"9"},{"id":1734677261330,"input":"5 5\n1 2\n2 3\n3 4\n4 5\n5 1","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/Graph/One_Edge.cpp","group":"local","local":true}

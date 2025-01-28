@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"/home/heisenberg/coding/cp/Leetcode/1.cpp","tests":[{"id":1732938818816,"input":"3\n2 1 2\n1 2 2\n2 0 2","output":""},{"id":1732938899378,"input":"2\n2 0\n0 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/Leetcode/1.cpp","group":"local","local":true}

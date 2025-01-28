@@ -1,0 +1,1 @@
+{"name":"Local: CompleteTheGame","url":"/home/heisenberg/coding/cp/AZ/CompleteTheGame.cpp","tests":[{"id":1735842134179,"input":"4 5\n1 2\n2 4\n1 3\n3 4\n1 4","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/CompleteTheGame.cpp","group":"local","local":true}

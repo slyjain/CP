@@ -1,0 +1,1 @@
+{"name":"Local: KdaneDp","url":"/home/heisenberg/coding/cp/AZ/KdaneDp.cpp","tests":[{"id":1736569303176,"input":"10\n-1 5 -3 2 9 -1 5 -10 3 2","output":"17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/KdaneDp.cpp","group":"local","local":true}

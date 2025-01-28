@@ -1,0 +1,1 @@
+{"name":"Local: UncommonSubsequences","url":"/home/heisenberg/coding/cp/AZ/UncommonSubsequences.cpp","tests":[{"id":1737213750461,"input":"3\nbanana \nanbnaanbaan\naaa\na\naba\nabaa","output":"5\n2\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/UncommonSubsequences.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: LCSOf3Strings","url":"/home/heisenberg/coding/cp/AZ/LCSOf3Strings.cpp","tests":[{"id":1735974889239,"input":"3\nabc abc bbc\nalgozenith algo algorithm\nalgo zenith zen\n","output":"2\n4\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/LCSOf3Strings.cpp","group":"local","local":true}

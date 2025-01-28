@@ -1,0 +1,1 @@
+{"name":"Local: CountOfBinaryStrings","url":"/home/heisenberg/coding/cp/AZ/CountOfBinaryStrings.cpp","tests":[{"id":1736443232228,"input":"3\n3\n4\n5","output":"8\n15\n28"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/CountOfBinaryStrings.cpp","group":"local","local":true}

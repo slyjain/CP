@@ -1,0 +1,1 @@
+{"name":"Local: FibonacciBreakdown","url":"/home/heisenberg/coding/cp/AZ/FibonacciBreakdown.cpp","tests":[{"id":1737822976903,"input":"1\n\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/FibonacciBreakdown.cpp","group":"local","local":true}

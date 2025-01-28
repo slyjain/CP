@@ -1,0 +1,1 @@
+{"name":"Local: MaximumAbsurdity","url":"/home/heisenberg/coding/cp/AZ/MaximumAbsurdity.cpp","tests":[{"id":1737192113784,"input":"5 2\n3 6 1 1 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/MaximumAbsurdity.cpp","group":"local","local":true}

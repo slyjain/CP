@@ -1,0 +1,1 @@
+{"name":"Local: VivekAndClicks","url":"/home/heisenberg/coding/cp/Graph/VivekAndClicks.cpp","tests":[{"id":1734875363695,"input":"3 3 4\n1 0 0\n0 0 1\n1 0 1\n1 2\n1 1\n3 3\n2 3","output":"4\n3\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/Graph/VivekAndClicks.cpp","group":"local","local":true}

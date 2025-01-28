@@ -1,0 +1,1 @@
+{"name":"Local: adv","url":"/home/heisenberg/coding/cp/sweepline/adv.cpp","tests":[{"id":1731645535921,"input":"2\n1 10 1\n5 15 2\n3\n7 3\n12 2\n2 1","output":"3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/sweepline/adv.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Tough_Mex","url":"/home/heisenberg/coding/cp/math/Tough_Mex.cpp","tests":[{"id":1734602833574,"input":"4\n2\n1 1\n3\n1 2 1\n4\n3 4 3 5\n0","output":"7\n17\n16\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/math/Tough_Mex.cpp","group":"local","local":true}

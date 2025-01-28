@@ -1,0 +1,1 @@
+{"name":"Local: ColorTree","url":"/home/heisenberg/coding/cp/Graph/ColorTree.cpp","tests":[{"id":1734679789781,"input":"3 \n1 2\n1 3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/Graph/ColorTree.cpp","group":"local","local":true}

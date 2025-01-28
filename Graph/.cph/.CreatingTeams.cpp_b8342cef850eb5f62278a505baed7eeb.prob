@@ -1,0 +1,1 @@
+{"name":"Local: CreatingTeams","url":"/home/heisenberg/coding/cp/Graph/CreatingTeams.cpp","tests":[{"id":1734766947829,"input":"5 3\n1 2\n1 3\n4 5","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/Graph/CreatingTeams.cpp","group":"local","local":true}

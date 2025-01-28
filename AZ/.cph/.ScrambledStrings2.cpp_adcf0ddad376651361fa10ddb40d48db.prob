@@ -1,0 +1,1 @@
+{"name":"Local: ScrambledStrings2","url":"/home/heisenberg/coding/cp/AZ/ScrambledStrings2.cpp","tests":[{"id":1737190261217,"input":"3\nabcde caebd\na a\ngreat rgeat","output":"No\nYes\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/ScrambledStrings2.cpp","group":"local","local":true}

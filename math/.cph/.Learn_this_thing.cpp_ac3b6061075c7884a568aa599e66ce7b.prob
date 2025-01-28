@@ -1,0 +1,1 @@
+{"name":"Local: Learn_this_thing","url":"/home/heisenberg/coding/cp/math/Learn_this_thing.cpp","tests":[{"id":1733803375430,"input":"2\n3\n4\n","output":"0 4\n3 2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/math/Learn_this_thing.cpp","group":"local","local":true}

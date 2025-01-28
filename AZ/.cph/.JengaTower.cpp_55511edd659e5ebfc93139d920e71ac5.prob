@@ -1,0 +1,1 @@
+{"name":"Local: JengaTower","url":"/home/heisenberg/coding/cp/AZ/JengaTower.cpp","tests":[{"id":1737652128007,"input":"3\n2\n6\n1337","output":"8\n2864\n640403945"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/JengaTower.cpp","group":"local","local":true}

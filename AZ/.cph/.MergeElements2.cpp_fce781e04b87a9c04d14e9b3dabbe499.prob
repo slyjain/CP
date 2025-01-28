@@ -1,0 +1,1 @@
+{"name":"Local: MergeElements2","url":"/home/heisenberg/coding/cp/AZ/MergeElements2.cpp","tests":[{"id":1737092362161,"input":"3 1 2 3\n1 2 4","output":"21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/MergeElements2.cpp","group":"local","local":true}

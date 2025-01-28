@@ -1,0 +1,1 @@
+{"name":"Local: sortStrings","url":"/home/heisenberg/coding/cp/AZ/sortStrings.cpp","tests":[{"id":1736830391977,"input":"3\n3\n2 6 7\naca\naad\nfba\n3\n5 1 1\npbc\ncbe\nqbf\n2\n4 5\nbaa\naaa","output":"6\n6\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/sortStrings.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: RobotPositions","url":"/home/heisenberg/coding/cp/AZ/RobotPositions.cpp","tests":[{"id":1737789385692,"input":"1\nRLL","output":"210"},{"id":1737794745083,"input":"1\nRRLRLRLRLL","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heisenberg/coding/cp/AZ/RobotPositions.cpp","group":"local","local":true}
